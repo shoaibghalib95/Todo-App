@@ -1,2 +1,2 @@
 # Todo-App
-A Todo App build using JavaScript, HTML and CSS.
+A Todo App build on IONIC V1 using JavaScript, HTML and CSS.
